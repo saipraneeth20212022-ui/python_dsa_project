@@ -6,6 +6,7 @@ import functools
 def timer(func):
     """Decorator to print execution time of a function."""
     @functools.wraps(func)
+    # Changes
     def wrapper(*args, **kwargs):
         start = time.perf_counter()
         result = func(*args, **kwargs)
