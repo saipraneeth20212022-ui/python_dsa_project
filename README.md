@@ -2,7 +2,7 @@
 
 A production-quality Python library implementing core **Data Structures and Algorithms** from scratch, paired with LeetCode-style problem solutions and performance benchmarks.
 
-> Built to demonstrate deep understanding of DSA fundamentals — ideal for Software Engineering and Python Developer roles.
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
